@@ -1,0 +1,61 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; font: size 20px;
+    outline-color: rgb(44, 0, 18);
+    background-color: rgb(54, 43, 11);
+    margin: 0px;
+    padding: 15px;
+}
+.title-set{
+    font-size: 23px;
+    font-weight: bold;
+    color: rgb(2, 88, 63);
+    margin-top: 0;
+    text-align: center;
+    background-color: rgb(41, 3, 3);
+}
+.bolds{
+    font-weight: bold;
+}
+.contenedor{
+    box-shadow: 0 0 10px; color: black(0,0,0,0.1);
+    max-width: 1000px;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 20px;
+   padding: 20px;
+} 
+.table thead{
+    background-color: rgb(116, 106, 106);
+    color: rgb(0, 160, 160);
+}
+.table{
+    width: 100%;
+    margin-bottom: 25px;
+    border-estilo: solid;
+    text-align: center;
+    border-collapse: collapse;
+}
+.table td:hover {
+    background-color: rgb(94, 9, 9);
+    color: rgb(11, 68, 49);
+    border: 2px solid rgb(192, 186, 186);
+    padding: 10px 20px;
+}
+.img{
+    width: 55%;
+    height: 55%;
+    border-radius: 15px;
+    background-color: rgb(255, 72, 6);
+    margin-bottom: 15px;
+    margin-left: 30px;
+
+}
+.video{
+    width: 680px;
+    height: 430px;
+    margin-top: auto;
+    padding-left: 215px;
+    margin-bottom: 25px;
+
+}
